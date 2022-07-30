@@ -4,8 +4,8 @@
 - Batatabit es un layout responsivo.
 ---
 ### `Tecnologías`
-- html
-- css
+- HTML
+- CSS
 
 
 
