@@ -1,8 +1,11 @@
-<!-- SOY UN COMENTARIO-->
 # `BATATABIT`
 ---
-#### *Batatabit es solo en layout con diseño responsivo*
-- No se ha instalado o configurado dependencias ni archivos webpack.
+### `Descripción`
+- Batatabit es un layout responsivo.
+---
+### `Tecnologías`
+- html
+- css
 
 
 
